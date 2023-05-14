@@ -1,0 +1,30 @@
+.Home-content{
+    margin-top: 20px;
+}
+.Home-content h1{
+    margin: 10px auto;
+}
+.Home-content h3{
+    margin: 40px auto;
+}
+.Home-content .content{
+    border: 1px solid gray;
+    margin: 10px;
+}
+.Home-content .content h3{
+    margin: 20px auto;
+}
+.Home-content .content p{
+    margin-bottom: 15px;
+}
+/* .example1 button{
+    display: none;
+    margin: 0 auto;
+}
+
+.example1 button.login-btn{
+    display: block;
+}
+.example1 button.logout-btn{
+    display: block;
+} */
